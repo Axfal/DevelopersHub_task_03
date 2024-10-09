@@ -1,2 +1,0 @@
-
-enum Status{LOADINNG, COMPLETED, ERROR}
